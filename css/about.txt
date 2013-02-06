@@ -1,0 +1,2 @@
+This is the style sheet that is created for the webpages and the images folder is for setting the background, menu bar
+and the menu buttons. The ie style sheet ensure that the dropdon menu in activites doesn't look out of place
